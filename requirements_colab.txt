@@ -1,0 +1,5 @@
+'git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf'
+transformers==3.0.0
+sentencepiece==latest
+gluonnlp==latest
+mxnet==latest
